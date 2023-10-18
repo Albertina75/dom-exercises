@@ -12,7 +12,7 @@
 /**
  * Cambia el tamaño del título de la página a 48px usando un estilo en línea
  */
-document.
+document.querySelector('h1').style.fontSize = '48px';
 /**
  * Muestra por console.log el texto de la caja 2
  */
